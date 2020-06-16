@@ -1,3 +1,5 @@
+// https://doc.rust-lang.org/stable/rust-by-example/custom_types/enum.html
+
 // Create an `enum` to classify a web event. Note how both
 // names and type information together specify the variant:
 // `PageLoad != PageUnload` and `KeyPress(char) != Paste(String)`.
