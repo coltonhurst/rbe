@@ -12,6 +12,6 @@ fn main() {
     println!("After mutation: {}", mutable_binding);
 
     // Error!
-    // _immutable_binding += 1;
+    //_immutable_binding += 1;
     // FIXME ^ Comment out this line
 }
