@@ -1,3 +1,5 @@
+// https://doc.rust-lang.org/stable/rust-by-example/variable_bindings/scope.html
+
 fn main() {
     // This binding lives in the main function
     let long_lived_binding = 1;
