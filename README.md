@@ -12,6 +12,7 @@ Examples from [Rust by Example](https://doc.rust-lang.org/stable/rust-by-example
     - [Mutability](./mutability/src/main.rs)
     - [Scope and Shadowing](./scope-shadow/src/main.rs)
     - [Declare First](./declare-first/src/main.rs)
+    - [Freezing](./freezing/src/main.rs)
 
 - Scoping Rules - [RAII](./raii/src/main.rs)
 - Scoping Rules - [RAII - Drop](./drop/src/main.rs)
