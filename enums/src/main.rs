@@ -27,10 +27,9 @@ fn inspect(event: WebEvent) {
         // Destructure `Click` into `x` and `y`.
         WebEvent::Click { x, y } => {
             println!("clicked at x={}, y={}.", x, y);
-        },
+        }
     }
 }
-
 
 fn main() {
     let pressed = WebEvent::KeyPress('x');

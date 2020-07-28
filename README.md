@@ -13,6 +13,8 @@ Examples from [Rust by Example](https://doc.rust-lang.org/stable/rust-by-example
     - [Scope and Shadowing](./scope-shadow/src/main.rs)
     - [Declare First](./declare-first/src/main.rs)
     - [Freezing](./freezing/src/main.rs)
+5. Types
+    - [Casting](./casting/src/main.rs)
 
 - Scoping Rules - [RAII](./raii/src/main.rs)
 - Scoping Rules - [RAII - Drop](./drop/src/main.rs)
