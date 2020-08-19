@@ -18,6 +18,10 @@ Examples from [Rust by Example](https://doc.rust-lang.org/stable/rust-by-example
     - [Literals](./literals/src/main.rs)
     - [Inference](./inference/src/main.rs)
     - [Aliasing](./aliasing/src/main.rs)
+6. Conversion
+    - [From and Into](./from-and-into/src/main.rs)
+    - [TryFrom and TryInto](./tryfrom-and-tryinto/src/main.rs)
+    - [To and From Strings](./to-from-strings/src/main.rs)
 
 - Scoping Rules - [RAII](./raii/src/main.rs)
 - Scoping Rules - [RAII - Drop](./drop/src/main.rs)
