@@ -22,6 +22,7 @@ Examples from [Rust by Example](https://doc.rust-lang.org/stable/rust-by-example
     - [From and Into](./from-and-into/src/main.rs)
     - [TryFrom and TryInto](./tryfrom-and-tryinto/src/main.rs)
     - [To and From Strings](./to-from-strings/src/main.rs)
+7. [Expressions](./expressions/src/main.rs)
 
 - Scoping Rules - [RAII](./raii/src/main.rs)
 - Scoping Rules - [RAII - Drop](./drop/src/main.rs)
